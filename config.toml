@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://hugo-test-app-lulx9.ondigitalocean.app/'
 languageCode = 'en-us'
 title = 'A Test Site'
 theme = "ananke"
